@@ -7,3 +7,5 @@ while True:
   if choice == "2":
     print("BIG MARY")
     break
+  else:
+    print("oops. Wrong Entry")
